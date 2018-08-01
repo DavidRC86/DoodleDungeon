@@ -1,0 +1,29 @@
+canvas{
+    
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin:auto;   
+}
+button{
+        position: absolute;
+        top:30%;
+        bottom: 0;
+        left: 0;
+        right: 56%;
+        width: 82px;
+        height: 20px;
+        margin:auto;   
+
+}
+#list {
+        position: absolute;
+        top:35%;
+        bottom: 0;
+        left: 19%;
+        right: 0;
+      
+        margin:auto;   
+}
